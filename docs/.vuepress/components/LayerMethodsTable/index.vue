@@ -1,0 +1,23 @@
+<template>
+  <table>
+    <thead>
+      <tr>
+        <th>方法</th>
+        <th>返回值</th>
+        <th>描述</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>remove</td>
+        <td>this</td>
+        <td>从当前处于活动状态的地图中删除图层。</td>
+      </tr>
+      <tr>
+        <td>addTo</td>
+        <td>this</td>
+        <td>将图层添加到指定的地图或图层组</td>
+      </tr>
+    </tbody>
+  </table>
+</template>
