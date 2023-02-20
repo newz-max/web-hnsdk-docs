@@ -46,7 +46,7 @@ layer.addTo(map);
 
 | 入参    | 类型                                    | 描述                                   |
 | ------- | --------------------------------------- | -------------------------------------- |
-| geojson | [featureCollection](#featureCollection) | GeoJSON FeatureCollection 标准格式数据 |
+| geojson | [featureCollection](#featurecollection) | GeoJSON FeatureCollection 标准格式数据 |
 | options | [options](#options)                     | 创建图层的可配置项                     |
 
 ## options
@@ -82,20 +82,19 @@ layer.addTo(map);
 
 | 选项      | 类型                    | 描述             |
 | --------- | ----------------------- | ---------------- |
-| iconStyle | [iconStyle](#iconStyle) | 船舶图标样式     |
+| iconStyle | [iconStyle](#iconstyle) | 船舶图标样式     |
 | 任何      | 任何                    | 船舶图标携带数据 |
 |           |                         |                  |
 
-## properties.Styles
+## iconStyle
 
-|             |        |                                                                 |
-| ----------- | ------ | --------------------------------------------------------------- |
-| 选项        | 类型   | 描述                                                            |
-| deg         | number | 船头朝向 0 - 360                                                |
-| fill        | string | 填充色                                                          |
-| fillOpacity | number | 填充色透明度 0-1                                                |
-| type        | string | 基础：base<br />航行中：run<br />转向：turn<br />浮桶：floating |
-| opacity     | number | 图标透明度 0-1                                                  |
+| 选项        | 类型   | 描述                                                         |
+| ----------- | ------ | ------------------------------------------------------------ |
+| deg         | number | 船头朝向 0 - 360                                             |
+| fill        | string | 填充色                                                       |
+| fillOpacity | number | 填充色透明度 0-1                                             |
+| type        | string | 基础：base<br />航行中：run<br />转向：turn<br />停泊：mooring<br />浮桶：floating |
+| opacity     | number | 图标透明度 0-1                                               |
 
 ## 方法
 
