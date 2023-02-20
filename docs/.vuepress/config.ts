@@ -4,6 +4,7 @@ import { searchPlugin } from "@vuepress/plugin-search";
 import vuepressPluginAnchorRight from "vuepress-plugin-anchor-right";
 
 export default defineUserConfig({
+  base: "/web-sdk-doc/",
   lang: "zh-CN",
   title: "海宁 WEB SDK",
   description: "海宁 WEB SDK 文档",
