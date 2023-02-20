@@ -29,7 +29,7 @@ const points = {
   ],
 };
 
-const layer = hnsdk.createShip(points);
+const layer = hnsdk.drawShip(points);
 
 layer.addTo(map);
 ```
@@ -49,11 +49,11 @@ layer.addTo(map);
 
 ## feature
 
-| 选项       | 类型                      | 描述                        |
-| ---------- | ------------------------- | --------------------------- |
-| type       | String                    | 类型 必须为Feature          |
-| properties | [properties](#properties) | 特征携带数据，iconStyle必填 |
-| geometry   | [geometry](#geometry)     | 经纬度数据                  |
+| 选项       | 类型                      | 描述                         |
+| ---------- | ------------------------- | ---------------------------- |
+| type       | String                    | 类型 必须为 Feature          |
+| properties | [properties](#properties) | 特征携带数据，iconStyle 必填 |
+| geometry   | [geometry](#geometry)     | 经纬度数据                   |
 
 ## geometry
 
@@ -72,14 +72,14 @@ layer.addTo(map);
 
 ## properties.Styles
 
-|             |        |                                                              |
-| ----------- | ------ | ------------------------------------------------------------ |
-| 选项        | 类型   | 描述                                                         |
-| deg         | number | 船头朝向 0 - 360                                             |
-| fill        | string | 填充色                                                       |
-| fillOpacity | number | 填充色透明度 0-1                                             |
+|             |        |                                                                 |
+| ----------- | ------ | --------------------------------------------------------------- |
+| 选项        | 类型   | 描述                                                            |
+| deg         | number | 船头朝向 0 - 360                                                |
+| fill        | string | 填充色                                                          |
+| fillOpacity | number | 填充色透明度 0-1                                                |
 | type        | string | 基础：base<br />航行中：run<br />转向：turn<br />浮桶：floating |
-| opacity     | number | 图标透明度 0-1                                               |
+| opacity     | number | 图标透明度 0-1                                                  |
 
 ## 方法
 
