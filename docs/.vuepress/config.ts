@@ -55,7 +55,7 @@ export default defineUserConfig({
             "/howToUse/drawLayer/draw-polygon.md",
             "/howToUse/drawLayer/draw-point.md",
             "/howToUse/drawLayer/draw-line.md",
-            "/howToUse/drawLayer/draw-ship.md",
+            "/howToUse/drawLayer/draw-vessel.md",
           ],
         },
         {

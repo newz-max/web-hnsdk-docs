@@ -29,7 +29,15 @@ const points = {
   ],
 };
 
-const layer = hnsdk.drawShip(points);
+const options = {
+  onEachFeature(feature, layer) {
+    layer.on("click", () => {
+      console.log(feature);
+      console.log(layer);
+    });
+  },
+};
+const layer = hnsdk.drawVessel(points, options);
 
 layer.addTo(map);
 ```
@@ -39,6 +47,14 @@ layer.addTo(map);
 | 入参    | 类型                                    | 描述                                   |
 | ------- | --------------------------------------- | -------------------------------------- |
 | geojson | [featureCollection](#featureCollection) | GeoJSON FeatureCollection 标准格式数据 |
+| options | [options](#options)                     | 创建图层的可配置项                     |
+
+## options
+
+| 选项          | 类型     | 描述                                                         |
+| ------------- | -------- | ------------------------------------------------------------ |
+| onEachFeature | Function | 一个 `Function` ，在每个创建的 `Feature` 被创建和样式化后，将被调用一次。对于将事件和弹出窗口附加到要素上很有用。默认情况下，对新创建的图层不做任何处理:<br />`function (feature, layer) {}` |
+| filter        | Function | 一个 `Function` ，用于决定是否包括一个要素。默认是包括所有要素:<br />`function (geoJsonFeature) { return true; }` |
 
 ## featureCollection
 
