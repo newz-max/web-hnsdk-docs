@@ -24,7 +24,8 @@ export default defineUserConfig({
       "/guide/": [
         {
           text: "起步",
-          children: ["/guide/index.md", "/guide/getting-started.md"],
+          // children: ["/guide/index.md", "/guide/getting-started.md"],
+          children: ["/guide/getting-started.md"],
         },
       ],
       "/howToUse/": [

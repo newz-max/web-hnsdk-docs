@@ -4,7 +4,7 @@ heroImage: /imgs/logo.png
 heroText: HaiNing Web SDK
 actions:
   - text: 快速上手
-    link: /guide/
+    link: /guide/getting-started.md
     type: primary
 features:
   - title: 多种安装方式
