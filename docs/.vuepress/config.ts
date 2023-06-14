@@ -1,7 +1,8 @@
-import { defineUserConfig, defaultTheme } from "vuepress";
+import { defineUserConfig, defaultTheme, viteBundler } from "vuepress";
 // plugins
 import { searchPlugin } from "@vuepress/plugin-search";
 import vuepressPluginAnchorRight from "vuepress-plugin-anchor-right";
+import path from "path";
 
 export default defineUserConfig({
   base: "/web-sdk-doc/",
@@ -13,7 +14,7 @@ export default defineUserConfig({
     navbar: [
       {
         text: "指南",
-        link: "/guide/",
+        link: "/guide/getting-started",
       },
       {
         text: "使用",
@@ -39,6 +40,7 @@ export default defineUserConfig({
             "/howToUse/TileEngine/create-map.md",
             "/howToUse/TileEngine/create-default-tileLayer.md",
             "/howToUse/TileEngine/create-ocean-currents.md",
+            "/howToUse/tileLayer/tileLayer.md",
           ],
         },
         {
@@ -60,8 +62,12 @@ export default defineUserConfig({
           ],
         },
         {
-          text: "工具",
+          text: "计算工具",
           children: ["/howToUse/utils/distance.md", "/howToUse/utils/area.md"],
+        },
+        {
+          text: "Util 常用方法类",
+          children: ["/howToUse/util/util.md"],
         },
         {
           text: "数据",
@@ -71,6 +77,18 @@ export default defineUserConfig({
             "/howToUse/queryData/query-ship-location.md",
             "/howToUse/queryData/query-ship.md",
           ],
+        },
+        {
+          text: "UI 图层",
+          children: [
+            "/howToUse/uiLayer/popup.md",
+            "/howToUse/uiLayer/tooltip.md",
+            "/howToUse/uiLayer/marker.md",
+          ],
+        },
+        {
+          text: "基本类型",
+          children: ["/howToUse/baseType/latLng.md"],
         },
       ],
     },
@@ -86,4 +104,14 @@ export default defineUserConfig({
     }),
     vuepressPluginAnchorRight(),
   ],
+
+  bundler: viteBundler({
+    viteOptions: {
+      resolve: {
+        alias: {
+          "@": path.resolve(__dirname),
+        },
+      },
+    },
+  }),
 });

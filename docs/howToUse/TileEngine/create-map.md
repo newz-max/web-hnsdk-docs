@@ -52,6 +52,12 @@ const map = hnsdk.createMap('map' , {
 | minZoom | number | 地图的最小缩放级别       |
 | maxZoom | number | 地图的最大缩放级别       |
 
+<MapEventsTable :showTitle="true" />
+
+<LayersControlEvent />
+
+<MapEventsMethodsTable />
+
 ## 返回
 
 `Map` map实例对象

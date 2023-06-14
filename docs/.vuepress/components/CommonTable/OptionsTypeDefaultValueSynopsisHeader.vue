@@ -1,0 +1,10 @@
+<template>
+  <thead>
+    <tr>
+      <th>选项</th>
+      <th>类型</th>
+      <th>默认值</th>
+      <th>说明</th>
+    </tr>
+  </thead>
+</template>

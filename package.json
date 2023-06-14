@@ -10,6 +10,7 @@
 	},
 	"dependencies": {
 		"@vuepress/plugin-search": "2.0.0-beta.60",
+		"path": "^0.12.7",
 		"vuepress-plugin-anchor-right": "0.0.1-beta.7"
 	}
 }

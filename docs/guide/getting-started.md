@@ -7,13 +7,13 @@
 ### 完整引入
 
 ```ts
-import * as hnsdk from "hnsdk";
+import hnsdk from "hnsdk";
 import "hnsdk/style.css";
 ```
 
-### 按需导入
+<!-- ### 按需导入
 
 ```ts
 import { init, createMap } from "hnsdk";
 import "hnsdk/style.css";
-```
+``` -->
