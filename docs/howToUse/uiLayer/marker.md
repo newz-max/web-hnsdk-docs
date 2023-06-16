@@ -13,3 +13,9 @@ hnsdk.marker([50.5, 30.5]).addTo(map);
 <MarkerOptions />
 
 <InteractiveEvents />
+
+<LayerEvents />
+
+<h2 id="marker-method">Methods 方法</h2>
+
+<MarkerMethods />

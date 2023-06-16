@@ -1,5 +1,5 @@
 <template>
-  <h2 id="latlng-method">Methods 方法</h2>
+  <h2 v-show="showH2" id="latlng-method">Methods 方法</h2>
 
   <table>
     <FunctionReturnSynopsisHeader />
@@ -91,6 +91,11 @@
 
 <script lang="ts" setup>
 import FunctionReturnSynopsisHeader from "../CommonTable/FunctionReturnSynopsisHeader.vue";
+
+interface Props {
+  showH2?: boolean;
+}
+defineProps<Props>();
 </script>
 
 <style lang="scss" scoped></style>

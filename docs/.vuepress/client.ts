@@ -20,6 +20,8 @@ import LatLngProperties from "./components/PropertiesTable/LatLngProperties.vue"
 import MarkerCreation from "./components/CreationTable/MarkerCreation.vue"; // tileLayer creation 表格
 import MarkerOptions from "./components/OptionsTable/MarkerOptions.vue"; // popup options 表格
 import InteractiveEvents from "./components/EventsTable/InteractiveEvents.vue"; // LayersControlEvent 表格
+import LayerEvents from "./components/EventsTable/LayerEvents.vue"; // LayersControlEvent 表格
+import MarkerMethods from "./components/MethodsTable/MarkerMethods.vue"; // tileLayer creation 表格
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -43,5 +45,7 @@ export default defineClientConfig({
     app.component("MarkerCreation", MarkerCreation);
     app.component("MarkerOptions", MarkerOptions);
     app.component("InteractiveEvents", InteractiveEvents);
+    app.component("LayerEvents", LayerEvents);
+    app.component("MarkerMethods", MarkerMethods);
   },
 });
