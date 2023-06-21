@@ -88,7 +88,10 @@ export default defineUserConfig({
         },
         {
           text: "基本类型",
-          children: ["/howToUse/baseType/latLng.md"],
+          children: [
+            "/howToUse/baseType/latLng.md",
+            "/howToUse/baseType/latLngBounds.md",
+          ],
         },
       ],
     },

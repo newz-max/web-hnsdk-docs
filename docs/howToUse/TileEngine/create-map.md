@@ -56,7 +56,7 @@ const map = hnsdk.createMap('map' , {
 
 <LayersControlEvent />
 
-<MapEventsMethodsTable />
+<MapEventsMethodsTable :h2Show="true" :noExtends="true" />
 
 ## 返回
 

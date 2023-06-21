@@ -22,30 +22,34 @@ import MarkerOptions from "./components/OptionsTable/MarkerOptions.vue"; // popu
 import InteractiveEvents from "./components/EventsTable/InteractiveEvents.vue"; // LayersControlEvent 表格
 import LayerEvents from "./components/EventsTable/LayerEvents.vue"; // LayersControlEvent 表格
 import MarkerMethods from "./components/MethodsTable/MarkerMethods.vue"; // tileLayer creation 表格
+import LatLngBoundsCreation from "./components/CreationTable/LatLngBoundsCreation.vue"; // tileLayer creation 表格
+import LatLngBoundsMethods from "./components/MethodsTable/LatLngBoundsMethods.vue"; // tileLayer creation 表格
 
 export default defineClientConfig({
   enhance({ app }) {
     app.component("GeoJsonLayerStyleTable", GeoJsonLayerStyleTable);
     app.component("LayerMethodsTable", LayerMethodsTable);
-    app.component("MapEventsTable", MapEventsTable);
     app.component("AttributeTypeSynopsisHeader", AttributeTypeSynopsisHeader);
     app.component("EventDataSynopsisHeader", EventDataSynopsisHeader);
     app.component("LayersControlEvent", LayersControlEvent);
-    app.component("MapEventsMethodsTable", MapEventsMethodsTable);
     app.component("UtilFunctionTable", UtilFunctionTable);
-    app.component("TileLayerCreation", TileLayerCreation);
-    app.component("TileLayerOptions", TileLayerOptions);
-    app.component("PopupCreation", PopupCreation);
-    app.component("PopupOptions", PopupOptions);
-    app.component("TooltioCreation", TooltioCreation);
-    app.component("TooltipOptions", TooltipOptions);
-    app.component("LatLngCreation", LatLngCreation);
     app.component("LatLngMethods", LatLngMethods);
     app.component("LatLngProperties", LatLngProperties);
+    app.component("MarkerMethods", MarkerMethods);
+    app.component("TileLayerCreation", TileLayerCreation);
+    app.component("PopupCreation", PopupCreation);
+    app.component("TooltioCreation", TooltioCreation);
+    app.component("LatLngCreation", LatLngCreation);
     app.component("MarkerCreation", MarkerCreation);
-    app.component("MarkerOptions", MarkerOptions);
+    app.component("LatLngBoundsCreation", LatLngBoundsCreation);
+    app.component("MapEventsTable", MapEventsTable);
+    app.component("MapEventsMethodsTable", MapEventsMethodsTable);
     app.component("InteractiveEvents", InteractiveEvents);
     app.component("LayerEvents", LayerEvents);
-    app.component("MarkerMethods", MarkerMethods);
+    app.component("TileLayerOptions", TileLayerOptions);
+    app.component("PopupOptions", PopupOptions);
+    app.component("TooltipOptions", TooltipOptions);
+    app.component("MarkerOptions", MarkerOptions);
+    app.component("LatLngBoundsMethods", LatLngBoundsMethods);
   },
 });

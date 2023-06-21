@@ -19,3 +19,5 @@ hnsdk.marker([50.5, 30.5]).addTo(map);
 <h2 id="marker-method">Methods 方法</h2>
 
 <MarkerMethods />
+
+<MapEventsMethodsTable :h2Show="true" />
