@@ -1,4 +1,6 @@
 <template>
+  <label> 继承自 <a href="#path">Path</a> 的选项</label>
+
   <table>
     <thead>
       <tr>
@@ -178,7 +180,7 @@
           当为 <code>true</code>时，这个路径上的鼠标事件将在地图上触发相同的事件
           (除非使用
           <a href="#domevent-stoppropagation"
-            ><code>L.DomEvent.stopPropagation</code></a
+            ><code>hnsdk.DomEvent.stopPropagation</code></a
           >
           )。
         </td>

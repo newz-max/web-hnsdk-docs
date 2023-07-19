@@ -19,7 +19,9 @@
             href="#icon"
           >
             Icon 文档</a
-          >。如果未指定，<a href="#icon-default"><code>L.Icon.Default</code></a>
+          >。如果未指定，<a href="#icon-default"
+            ><code>hnsdk.Icon.Default</code></a
+          >
           则使用公共实例。
         </td>
       </tr>
@@ -137,7 +139,7 @@
           <code>true</code>
           时，此标记上的鼠标事件将触发地图上的相同事件(除非使用
           <a href="#domevent-stoppropagation"
-            ><code>L.DomEvent.stopPropagation</code></a
+            ><code>hnsdk.DomEvent.stopPropagation</code></a
           >）。
         </td>
       </tr>

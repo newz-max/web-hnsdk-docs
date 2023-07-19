@@ -1,5 +1,5 @@
 <template>
-  <h2 id="图层事件" v-show="showTitle">图层事件</h2>
+  <h4 id="图层事件" v-show="showTitle">图层事件</h4>
   <table>
     <EventDataSynopsisHeader />
 

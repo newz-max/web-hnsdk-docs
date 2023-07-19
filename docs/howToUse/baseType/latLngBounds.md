@@ -5,9 +5,9 @@
 ## 使用示例
 
 ```js
-var corner1 = L.latLng(40.712, -74.227),
-  corner2 = L.latLng(40.774, -74.125),
-  bounds = L.latLngBounds(corner1, corner2);
+var corner1 = hnsdk.latLng(40.712, -74.227),
+  corner2 = hnsdk.latLng(40.774, -74.125),
+  bounds = hnsdk.latLngBounds(corner1, corner2);
 ```
 
 所有接受 LatLngBounds 对象的 hnsdk 方法也接受它们的简单数组形式（除非另有说明），所以上面的边界例子可以这样传递:

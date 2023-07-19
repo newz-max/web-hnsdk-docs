@@ -9,6 +9,7 @@ export default defineUserConfig({
   lang: "zh-CN",
   title: "海宁 WEB SDK",
   description: "海宁 WEB SDK 文档",
+  head: [["link", { rel: "icon", href: "/web-sdk-doc/imgs/logo.ico" }]],
   theme: defaultTheme({
     logo: "/imgs/logo.png",
     navbar: [
@@ -50,6 +51,7 @@ export default defineUserConfig({
             "/howToUse/createLayer/create-circle.md",
             "/howToUse/createLayer/create-polygon.md",
             "/howToUse/createLayer/create-ship.md",
+            "/howToUse/createLayer/create-polyline.md",
           ],
         },
         {
@@ -59,6 +61,8 @@ export default defineUserConfig({
             "/howToUse/drawLayer/draw-point.md",
             "/howToUse/drawLayer/draw-line.md",
             "/howToUse/drawLayer/draw-vessel.md",
+            "/howToUse/drawLayer/draw-choropleth.md",
+            "/howToUse/drawLayer/draw-wind.md",
           ],
         },
         {
@@ -92,6 +96,10 @@ export default defineUserConfig({
             "/howToUse/baseType/latLng.md",
             "/howToUse/baseType/latLngBounds.md",
           ],
+        },
+        {
+          text: "控件",
+          children: ["/howToUse/controler/layers-controler.md"],
         },
       ],
     },

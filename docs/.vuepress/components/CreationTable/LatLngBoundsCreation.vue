@@ -8,7 +8,7 @@
       <tr id="latlngbounds-l-latlngbounds">
         <td>
           <code
-            ><b>L.latLngBounds</b>(<nobr
+            ><b>hnsdk.latLngBounds</b>(<nobr
               >&lt;<a href="#latlng">LatLng</a>&gt;</nobr
             >
             <i>corner1</i>, <nobr>&lt;<a href="#latlng">LatLng</a>&gt;</nobr>
@@ -23,7 +23,7 @@
       <tr id="latlngbounds-l-latlngbounds">
         <td>
           <code
-            ><b>L.latLngBounds</b>(<nobr>&lt;LatLng[]&gt;</nobr>
+            ><b>hnsdk.latLngBounds</b>(<nobr>&lt;LatLng[]&gt;</nobr>
             <i>latlngs</i>)</code
           ><a data-anchor="latlngbounds-l-latlngbounds"></a>
         </td>

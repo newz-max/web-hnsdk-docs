@@ -24,6 +24,29 @@ import LayerEvents from "./components/EventsTable/LayerEvents.vue"; // LayersCon
 import MarkerMethods from "./components/MethodsTable/MarkerMethods.vue"; // tileLayer creation 表格
 import LatLngBoundsCreation from "./components/CreationTable/LatLngBoundsCreation.vue"; // tileLayer creation 表格
 import LatLngBoundsMethods from "./components/MethodsTable/LatLngBoundsMethods.vue"; // tileLayer creation 表格
+import PolylineOptions from "./components/OptionsTable/PolylineOptions.vue"; // tileLayer options 表格
+import PopupEvents from "./components/EventsTable/PopupEvents.vue"; // LayersControlEvent 表格
+import ToolTipEvents from "./components/EventsTable/ToolTipEvents.vue"; // LayersControlEvent 表格
+import PolylineMethods from "./components/MethodsTable/PolylineMethods.vue"; // tileLayer creation 表格
+import LayerMethods from "./components/MethodsTable/LayerMethods.vue"; // tileLayer creation 表格
+import PopupMethods from "./components/MethodsTable/PopupMethods.vue"; // tileLayer creation 表格
+import ToolTipMethods from "./components/MethodsTable/ToolTipMethods.vue"; // tileLayer creation 表格
+import EventedMethods from "./components/MethodsTable/EventedMethods.vue"; // tileLayer creation 表格
+import DrawChoroplethCreation from "./components/CreationTable/DrawChoroplethCreation.vue"; // tileLayer creation 表格
+import DrawChoroplethOptions from "./components/OptionsTable/DrawChoroplethOptions.vue"; // tileLayer options 表格
+import FeatureGroupEvents from "./components/EventsTable/FeatureGroupEvents.vue"; // LayersControlEvent 表格
+import GeoJSONMethods from "./components/MethodsTable/GeoJSONMethods.vue"; // tileLayer creation 表格
+import FeatureGrpupMethods from "./components/MethodsTable/FeatureGrpupMethods.vue"; // tileLayer creation 表格
+import LayerGroupMethods from "./components/MethodsTable/LayerGroupMethods.vue"; // tileLayer creation 表格
+import MapStatusChangeEvents from "./components/EventsTable/MapStatusChangeEvents.vue"; // LayersControlEvent 表格
+import MapMethods from "./components/MethodsTable/MapMethods.vue"; // tileLayer creation 表格
+import DrawWindCreation from "./components/CreationTable/DrawWindCreation.vue"; // tileLayer creation 表格
+import DrawWindOptions from "./components/OptionsTable/DrawWindOptions.vue"; // tileLayer options 表格
+import LayerControlerCreation from "./components/CreationTable/LayerControlerCreation.vue"; // tileLayer creation 表格
+import LayersControlerOptions from "./components/OptionsTable/LayersControlerOptions.vue"; // tileLayer options 表格
+import ControlOptions from "./components/OptionsTable/ControlOptions.vue"; // tileLayer options 表格
+import LayersControlerMethods from "./components/MethodsTable/LayersControlerMethods.vue"; // tileLayer creation 表格
+import ControlerMethods from "./components/MethodsTable/ControlerMethods.vue"; // tileLayer creation 表格
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -51,5 +74,28 @@ export default defineClientConfig({
     app.component("TooltipOptions", TooltipOptions);
     app.component("MarkerOptions", MarkerOptions);
     app.component("LatLngBoundsMethods", LatLngBoundsMethods);
+    app.component("PolylineOptions", PolylineOptions);
+    app.component("PopupEvents", PopupEvents);
+    app.component("ToolTipEvents", ToolTipEvents);
+    app.component("PolylineMethods", PolylineMethods);
+    app.component("LayerMethods", LayerMethods);
+    app.component("PopupMethods", PopupMethods);
+    app.component("ToolTipMethods", ToolTipMethods);
+    app.component("EventedMethods", EventedMethods);
+    app.component("DrawChoroplethCreation", DrawChoroplethCreation);
+    app.component("DrawChoroplethOptions", DrawChoroplethOptions);
+    app.component("FeatureGroupEvents", FeatureGroupEvents);
+    app.component("GeoJSONMethods", GeoJSONMethods);
+    app.component("FeatureGrpupMethods", FeatureGrpupMethods);
+    app.component("LayerGroupMethods", LayerGroupMethods);
+    app.component("MapStatusChangeEvents", MapStatusChangeEvents);
+    app.component("MapMethods", MapMethods);
+    app.component("DrawWindCreation", DrawWindCreation);
+    app.component("DrawWindOptions", DrawWindOptions);
+    app.component("LayerControlerCreation", LayerControlerCreation);
+    app.component("LayersControlerOptions", LayersControlerOptions);
+    app.component("ControlOptions", ControlOptions);
+    app.component("LayersControlerMethods", LayersControlerMethods);
+    app.component("ControlerMethods", ControlerMethods);
   },
 });
