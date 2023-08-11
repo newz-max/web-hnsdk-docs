@@ -65,6 +65,12 @@ const map = hnsdk.createMap('map' , {
 ## Methods
 <MapMethods />
 
+## 获取地图状态
+<CreateMapGetStatus />
+
+## 转换
+<CreateMapTranslate />
+
 ## 返回
 
 `Map` map实例对象

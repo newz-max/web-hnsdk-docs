@@ -47,6 +47,8 @@ import LayersControlerOptions from "./components/OptionsTable/LayersControlerOpt
 import ControlOptions from "./components/OptionsTable/ControlOptions.vue"; // tileLayer options 表格
 import LayersControlerMethods from "./components/MethodsTable/LayersControlerMethods.vue"; // tileLayer creation 表格
 import ControlerMethods from "./components/MethodsTable/ControlerMethods.vue"; // tileLayer creation 表格
+import CreateMapTranslate from "./components/Other/CreateMapTranslate.vue"; // tileLayer creation 表格
+import CreateMapGetStatus from "./components/Other/CreateMapGetStatus.vue"; // tileLayer creation 表格
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -97,5 +99,7 @@ export default defineClientConfig({
     app.component("ControlOptions", ControlOptions);
     app.component("LayersControlerMethods", LayersControlerMethods);
     app.component("ControlerMethods", ControlerMethods);
+    app.component("CreateMapTranslate", CreateMapTranslate);
+    app.component("CreateMapGetStatus", CreateMapGetStatus);
   },
 });
