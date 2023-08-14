@@ -95,6 +95,7 @@ export default defineUserConfig({
           children: [
             "/howToUse/baseType/latLng.md",
             "/howToUse/baseType/latLngBounds.md",
+            "/howToUse/baseType/point.md",
           ],
         },
         {

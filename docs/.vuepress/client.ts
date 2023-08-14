@@ -49,6 +49,9 @@ import LayersControlerMethods from "./components/MethodsTable/LayersControlerMet
 import ControlerMethods from "./components/MethodsTable/ControlerMethods.vue"; // tileLayer creation 表格
 import CreateMapTranslate from "./components/Other/CreateMapTranslate.vue"; // tileLayer creation 表格
 import CreateMapGetStatus from "./components/Other/CreateMapGetStatus.vue"; // tileLayer creation 表格
+import PointCreation from "./components/CreationTable/PointCreation.vue"; // tileLayer creation 表格
+import PointMethods from "./components/MethodsTable/PointMethods.vue"; // tileLayer creation 表格
+import PointProperties from "./components/PropertiesTable/PointProperties.vue"; // LatLng properties 表格
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -101,5 +104,8 @@ export default defineClientConfig({
     app.component("ControlerMethods", ControlerMethods);
     app.component("CreateMapTranslate", CreateMapTranslate);
     app.component("CreateMapGetStatus", CreateMapGetStatus);
+    app.component("PointCreation", PointCreation);
+    app.component("PointMethods", PointMethods);
+    app.component("PointProperties", PointProperties);
   },
 });
