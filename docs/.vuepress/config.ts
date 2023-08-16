@@ -100,7 +100,10 @@ export default defineUserConfig({
         },
         {
           text: "控件",
-          children: ["/howToUse/controler/layers-controler.md"],
+          children: [
+            "/howToUse/controler/layers-controler.md",
+            "/howToUse/controler/scale-controler.md",
+          ],
         },
       ],
     },

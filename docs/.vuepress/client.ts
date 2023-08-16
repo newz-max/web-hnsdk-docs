@@ -52,6 +52,8 @@ import CreateMapGetStatus from "./components/Other/CreateMapGetStatus.vue"; // t
 import PointCreation from "./components/CreationTable/PointCreation.vue"; // tileLayer creation 表格
 import PointMethods from "./components/MethodsTable/PointMethods.vue"; // tileLayer creation 表格
 import PointProperties from "./components/PropertiesTable/PointProperties.vue"; // LatLng properties 表格
+import ScaleControlerCreation from "./components/CreationTable/ScaleControlerCreation.vue"; // tileLayer creation 表格
+import ScaleControlerOptions from "./components/OptionsTable/ScaleControlerOptions.vue"; // tileLayer options 表格
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -107,5 +109,7 @@ export default defineClientConfig({
     app.component("PointCreation", PointCreation);
     app.component("PointMethods", PointMethods);
     app.component("PointProperties", PointProperties);
+    app.component("ScaleControlerCreation", ScaleControlerCreation);
+    app.component("ScaleControlerOptions", ScaleControlerOptions);
   },
 });
