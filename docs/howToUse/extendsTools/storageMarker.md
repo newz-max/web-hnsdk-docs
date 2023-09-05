@@ -18,7 +18,7 @@ hnsdk.useStoreMarker 用于在地图上创建本地记忆的标记
   });
 
 // del 方法删除已存在的 marker
-  function markerClick(e: L.LeafletMouseEvent) {
+  function markerClick(e) {
     storeMarker.del(e.target);
   }
 ```

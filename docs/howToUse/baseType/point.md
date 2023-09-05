@@ -12,7 +12,7 @@ var point = hnsdk.point(200, 300);
 
 ```js
 map.panBy([200, 300]);
-map.panBy(L.point(200, 300));
+map.panBy(hnsdk.point(200, 300));
 ```
 注意， Point 不继承 hnsdk 的 Class 对象，这意味着新的类不能继承于它，新的方法也不能用 include 函数添加到它。
 

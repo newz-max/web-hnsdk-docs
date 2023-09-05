@@ -57,6 +57,9 @@ import ScaleControlerOptions from "./components/OptionsTable/ScaleControlerOptio
 import UseStoreMarkerCreation from "./components/CreationTable/UseStoreMarkerCreation.vue"; // tileLayer creation 表格
 import useStoreMarkerMethods from "./components/MethodsTable/useStoreMarkerMethods.vue"; // tileLayer creation 表格
 import RuntimeMarkerStoreItem from "./components/Other/RuntimeMarkerStoreItem.vue";
+import CalcDestinationParamsTable from "./components/Turf/CalcDestinationParamsTable.vue";
+import CalcDestinationOptionsTable from "./components/Turf/CalcDestinationOptionsTable.vue";
+import ToMercatorParams from "./components/Turf/ToMercatorParams.vue";
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -117,5 +120,9 @@ export default defineClientConfig({
     app.component("UseStoreMarkerCreation", UseStoreMarkerCreation);
     app.component("useStoreMarkerMethods", useStoreMarkerMethods);
     app.component("RuntimeMarkerStoreItem", RuntimeMarkerStoreItem);
+    app.component("CalcDestinationParamsTable", CalcDestinationParamsTable);
+    app.component("CalcDestinationOptionsTable", CalcDestinationOptionsTable);
+    app.component("CalcDestinationOptionsTable", CalcDestinationOptionsTable);
+    app.component("ToMercatorParams", ToMercatorParams);
   },
 });

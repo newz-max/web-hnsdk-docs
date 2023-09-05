@@ -67,7 +67,12 @@ export default defineUserConfig({
         },
         {
           text: "计算工具",
-          children: ["/howToUse/utils/distance.md", "/howToUse/utils/area.md"],
+          children: [
+            "/howToUse/utils/distance.md",
+            "/howToUse/utils/area.md",
+            "/howToUse/utils/calcDestination.md",
+            "/howToUse/utils/toMercator.md",
+          ],
         },
         {
           text: "Util 常用方法类",
@@ -107,7 +112,10 @@ export default defineUserConfig({
         },
         {
           text: "扩展工具",
-          children: ["/howToUse/extendsTools/storageMarker.md"],
+          children: [
+            "/howToUse/extendsTools/storageMarker.md",
+            "/howToUse/extendsTools/markerMotion.md",
+          ],
         },
       ],
     },
