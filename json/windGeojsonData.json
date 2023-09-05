@@ -1,0 +1,3635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 157.72614891882307,
+        "speed": 17.3596065365028
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 283.084845592689,
+        "speed": 9.289086559092418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 280.026673549894,
+        "speed": 7.0347431217352945
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 249.5392186981568,
+        "speed": 12.127002184745308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 73.41000148869688,
+        "speed": 5.224123509373939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 107.30073358869706,
+        "speed": 16.38302087640406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 13.080164375908163,
+        "speed": 18.427578125257376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 90.50908555407932,
+        "speed": 18.730511461575553
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 87.06050184475303,
+        "speed": 1.5172145297983466
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 320.96878576590893,
+        "speed": 3.1905551042462736
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.4513169028442, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 247.46555671619595,
+        "speed": 10.92327968903527
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 89.13065919606923,
+        "speed": 11.561019488044103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 267.51949210553363,
+        "speed": 18.858106750519777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 301.27866108562205,
+        "speed": 15.010739553914094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 82.78508523340871,
+        "speed": 18.704198925815977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 17.62039424336652,
+        "speed": 2.886262422033969
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 28.251429668785697,
+        "speed": 12.400999709174439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 268.28425234699955,
+        "speed": 0.3096234105260596
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 191.204390794097,
+        "speed": 12.458742145833833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 271.58695615506446,
+        "speed": 10.867948183709794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.93405300266643, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 345.719802374314,
+        "speed": 16.938011734893443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 56.05561070031632,
+        "speed": 9.50667847049765
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 352.90904273733463,
+        "speed": 15.311039650040879
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 124.60916539611772,
+        "speed": 15.116169992155827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 309.22703363744296,
+        "speed": 6.242643985599303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 295.4965336228293,
+        "speed": 2.1441751242538487
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 210.004662851508,
+        "speed": 21.144445561004638
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 98.21894036887409,
+        "speed": 4.3379989798269545
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 229.53936125908288,
+        "speed": 6.659685490253793
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 24.123356896100994,
+        "speed": 4.833876791940547
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.41678910248866, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 91.96365122160343,
+        "speed": 23.372456203880766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 158.78255871736647,
+        "speed": 4.127266414747881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 25.8747359228523,
+        "speed": 2.560873447243674
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 132.41187602408607,
+        "speed": 17.599328027193398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 67.92176493980402,
+        "speed": 21.378440201108468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 149.42207660836078,
+        "speed": 12.75224311247278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 264.31162907377507,
+        "speed": 18.100890966649878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 9.169399131956242,
+        "speed": 15.470596461462161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 11.339635999314197,
+        "speed": 4.231059553533685
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 98.65711442713405,
+        "speed": 11.785417810331376
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.8995252023109, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 270.10505601025983,
+        "speed": 14.952132614447146
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 173.98584983441813,
+        "speed": 19.171411969466384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 258.1228352078307,
+        "speed": 17.311697282151954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 73.61587567987287,
+        "speed": 1.8705872186648183
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 12.3843892388836,
+        "speed": 23.14324644817699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 254.51675717593307,
+        "speed": 6.670592364192965
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 246.80109618589387,
+        "speed": 6.559228926688018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 238.2491796462871,
+        "speed": 18.651712891836937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 4.203490476394176,
+        "speed": 5.311769448035665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 58.44083165212712,
+        "speed": 16.21281549842687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.38226130213313, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 58.26022648151688,
+        "speed": 12.772035752350622
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 190.63202555862844,
+        "speed": 17.344999447730984
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 71.92895164715219,
+        "speed": 17.864516846866877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 160.60904496448043,
+        "speed": 18.60170185731586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 134.95798246691865,
+        "speed": 21.905632319680755
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 91.01473179022379,
+        "speed": 8.186565379734999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 167.95350739158457,
+        "speed": 18.777508472621818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 336.34340197449563,
+        "speed": 1.4950880771320936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 76.74352900522783,
+        "speed": 22.31431343473791
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 152.8063361018689,
+        "speed": 10.087474568255574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.86499740195537, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 125.84771783538017,
+        "speed": 12.069513406794512
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 72.54345053882476,
+        "speed": 19.354781598006948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 57.328712906243666,
+        "speed": 23.440512978444907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 131.02396039068546,
+        "speed": 1.9528984059795018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 210.37430443856744,
+        "speed": 5.664924827893552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 133.2044634541181,
+        "speed": 2.630506025879594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 48.6182517053279,
+        "speed": 19.723768975528507
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 148.2467050559141,
+        "speed": 3.0901926308161336
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 324.2527921373654,
+        "speed": 0.16957792278735262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 200.893868012711,
+        "speed": 3.822371451007891
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.34773350177761, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 50.13072348163463,
+        "speed": 1.4828768301507473
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 61.96392066078459,
+        "speed": 22.6732601757398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 184.145294895498,
+        "speed": 0.9670185314222994
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 3.573798452285155,
+        "speed": 11.198751922843616
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 24.542401004063024,
+        "speed": 10.917268959308625
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 316.7019159695608,
+        "speed": 17.85763312028414
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 90.05270528623048,
+        "speed": 10.030030003448202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 28.12651259128878,
+        "speed": 19.160252659897417
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 264.873993509736,
+        "speed": 11.82760349746573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 249.53794023117996,
+        "speed": 15.203983576559999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-49.83046960159985, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 284.53443350932395,
+        "speed": 7.902011590359921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 157.54347024426957,
+        "speed": 14.125378700680864
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 188.96713449025677,
+        "speed": 16.500064739549423
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 356.4500767719088,
+        "speed": 3.7695104475954953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 205.26118476965655,
+        "speed": 6.82573683246256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 157.90004232837367,
+        "speed": 10.362494476773279
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 273.89717929404213,
+        "speed": 12.656387813059492
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 129.07618549551148,
+        "speed": 6.619644936186743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 25.690157555244724,
+        "speed": 23.434629467815753
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 175.3810897360085,
+        "speed": 18.316189595271496
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.31320570142209, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 84.50810260034086,
+        "speed": 3.6019330453930642
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 276.23143104937753,
+        "speed": 6.541084256964798
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 11.915339686145252,
+        "speed": 8.56402041275953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 37.294218965211996,
+        "speed": 15.221703210891558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 239.78120634693957,
+        "speed": 4.766078643900155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 75.29740387304469,
+        "speed": 20.764587460494948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 120.18653653107964,
+        "speed": 16.45789762803937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 111.01288475847466,
+        "speed": 6.760576233771447
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 135.34076507094883,
+        "speed": 0.8353875964462212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 62.08340847006913,
+        "speed": 0.07275907740704035
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-38.79594180124433, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 310.0448630273251,
+        "speed": 18.81687949639614
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 23.429718754994173,
+        "speed": 14.02144518752505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 342.9032334402646,
+        "speed": 3.564772371592632
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 281.9826127584128,
+        "speed": 11.123530180909308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 82.64416061587534,
+        "speed": 21.442018488425443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 126.68384387289359,
+        "speed": 3.9752957758530876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 160.86911236334305,
+        "speed": 13.864691151840695
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 32.533305506831695,
+        "speed": 10.806023502842425
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 128.86092778057866,
+        "speed": 10.891079985981937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 133.45026010299242,
+        "speed": 14.202549193306421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-33.27867790106657, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 93.21755845834315,
+        "speed": 14.784966325536477
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 34.956812865298815,
+        "speed": 6.43795325348472
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 115.76555965832652,
+        "speed": 4.898578078222162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 22.041467273673383,
+        "speed": 0.9743619732464026
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 72.70787198781305,
+        "speed": 17.72174983672094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 359.0321064287134,
+        "speed": 16.563869330059855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 345.7254865020721,
+        "speed": 13.466622712031295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 253.8320649955794,
+        "speed": 12.002754395534694
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 161.63619269080755,
+        "speed": 21.453861483854215
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 279.479455154828,
+        "speed": 22.96615458917463
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-27.76141400088881, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 121.68896457603569,
+        "speed": 1.67162046928601
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 35.717169345359274,
+        "speed": 7.223829095225431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 124.41677772722707,
+        "speed": 7.103569135381207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 178.13169877681992,
+        "speed": 1.7891039380893687
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 132.8526965160334,
+        "speed": 12.251775202507655
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 304.0691193254575,
+        "speed": 15.899662826782395
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 318.62504088760704,
+        "speed": 11.005549174927921
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 32.08293218879802,
+        "speed": 6.3700772297643
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 305.08088374189253,
+        "speed": 7.971710600332907
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 143.5488619539573,
+        "speed": 1.952897516472074
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-22.244150100711046, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 188.30870956957358,
+        "speed": 7.556988019376819
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 262.78783762941964,
+        "speed": 13.996231545459066
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 356.57929603356865,
+        "speed": 23.756073717940488
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 265.42135057283906,
+        "speed": 8.02482341521023
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 262.4427506281549,
+        "speed": 19.37534846633732
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 257.6581376191222,
+        "speed": 11.6330996176342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 246.37469062578333,
+        "speed": 14.580978251641552
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 226.2344418273066,
+        "speed": 12.71553822728504
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 268.5910291915405,
+        "speed": 20.747314141053096
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 91.11091254715967,
+        "speed": 11.603453348506132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-16.726886200533283, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 66.6581331140628,
+        "speed": 23.07058993029937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 71.12621447158914,
+        "speed": 4.641051169637169
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 225.05963675899088,
+        "speed": 20.79990949112735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 107.57397053606394,
+        "speed": 12.527298199814606
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 174.51055716205457,
+        "speed": 22.70493520415088
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 62.48837331541604,
+        "speed": 3.6638545244611915
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 251.08672398525013,
+        "speed": 10.930472028165518
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 100.79790859316677,
+        "speed": 14.554114312140216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 323.57664135998465,
+        "speed": 4.939943182325424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 60.11641369821135,
+        "speed": 21.213686901538193
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.20962230035552, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 218.8733765157736,
+        "speed": 18.017108132727053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 71.70705179154608,
+        "speed": 22.656492272054393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 127.32877926509671,
+        "speed": 3.205142599311948
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 336.7539850970462,
+        "speed": 17.56140650177843
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 231.43412333922493,
+        "speed": 11.026861425941558
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 48.17663456880113,
+        "speed": 1.9967744636941767
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 27.888499715726283,
+        "speed": 2.2062894821062216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 330.1619452837617,
+        "speed": 17.194519871751243
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 50.76904430172739,
+        "speed": 6.710654730726413
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 270.5313194426884,
+        "speed": 16.008496232729133
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692358400177757, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 30.463862144416947,
+        "speed": 8.225088814203918
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 149.09851269280472,
+        "speed": 6.805304883037534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 145.75009075696036,
+        "speed": 7.6135296600667335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 310.0309145835879,
+        "speed": 2.249930203845315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 257.9428691432112,
+        "speed": 20.22059859975228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 3.995349160674806,
+        "speed": 21.639490704985224
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 131.9337298065941,
+        "speed": 22.10342592868519
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 39.23199231716054,
+        "speed": 3.5521798181849107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 144.34530313587558,
+        "speed": 17.277468626054198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 15.809404930454658,
+        "speed": 16.67715170893198
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.17509449999999482, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 189.3762832914385,
+        "speed": 1.4751927065520132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 117.129701026545,
+        "speed": 11.151212208174565
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 36.85154549664051,
+        "speed": 3.6543139171027708
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 154.18274336927286,
+        "speed": 10.379754490153422
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 95.61990395784781,
+        "speed": 23.182387881679084
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 177.75736395014997,
+        "speed": 7.453281715081253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 173.4856778482497,
+        "speed": 16.904910570698192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 293.90059052925835,
+        "speed": 19.78666224663724
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 243.49705766094922,
+        "speed": 5.543902215107238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 144.54102261405495,
+        "speed": 2.7261378876177673
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.3421694001777675, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 273.16589606008387,
+        "speed": 18.925249351651402
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 47.725131472465264,
+        "speed": 20.97716393993756
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 292.32529998534943,
+        "speed": 11.216730321032323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 59.48687140424886,
+        "speed": 20.573485925114497
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 67.03419125175769,
+        "speed": 18.872240754796735
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 102.31076775848766,
+        "speed": 2.052817095933877
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 57.83059161296202,
+        "speed": 17.920865578945158
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 254.3820391923547,
+        "speed": 21.84111753740398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 155.11318573463322,
+        "speed": 4.033758197351014
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 75.41755661847019,
+        "speed": 0.5420525756043411
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.85943330035553, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 149.39034545626066,
+        "speed": 7.855130868704196
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 109.35230772423354,
+        "speed": 21.803760787581393
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 198.51418637469737,
+        "speed": 6.579566399596381
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 70.72577364369904,
+        "speed": 23.793364156189327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 350.3530689280123,
+        "speed": 15.127826635262716
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 250.49952144304993,
+        "speed": 23.861789501923933
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 112.1502834288047,
+        "speed": 13.362391231289575
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 40.11236571239216,
+        "speed": 21.0903352235131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 331.727890153733,
+        "speed": 15.009835247355936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 310.8769765196506,
+        "speed": 4.963792673981233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.376697200533293, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 216.40124291299134,
+        "speed": 18.81347293117882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 66.33422586170873,
+        "speed": 17.71872527308164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 309.75090883792507,
+        "speed": 21.68707331943471
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 210.58734009630973,
+        "speed": 6.491212513225943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 247.10515725313104,
+        "speed": 13.94591472597375
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 211.811199730437,
+        "speed": 20.03972866709836
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 292.7475175089434,
+        "speed": 0.05690580756576935
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 285.23374999852115,
+        "speed": 4.267398563690939
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 174.01530989270339,
+        "speed": 13.396962682113482
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 226.75529464428448,
+        "speed": 4.0178661906229785
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.893961100711056, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 42.29253898758769,
+        "speed": 11.869875784942987
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 154.3844769803416,
+        "speed": 2.0119372099411272
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 174.25076063661223,
+        "speed": 2.072288906463937
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 109.46837964551507,
+        "speed": 15.291017452376881
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 125.82902173500942,
+        "speed": 5.5347626366952145
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 158.01554507795734,
+        "speed": 2.110809421261818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 77.89453922861918,
+        "speed": 5.771956761904137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 119.99633961696753,
+        "speed": 11.860805760410047
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 51.509015768935235,
+        "speed": 15.719778987273028
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 252.79953820760267,
+        "speed": 23.50682811623784
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.41122500088882, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 305.98930404277235,
+        "speed": 4.815276329903691
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 275.01320578567913,
+        "speed": 19.672720325452424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 30.39758337083733,
+        "speed": 14.890206396037827
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 291.5095252559744,
+        "speed": 11.321452582394523
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 256.6267008785787,
+        "speed": 19.585193019419187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 193.3904857854065,
+        "speed": 3.5340027459476797
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 169.9001240004882,
+        "speed": 4.179309211281707
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 214.52568626092804,
+        "speed": 16.45131427850766
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 300.9484812936618,
+        "speed": 22.4270770653124
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 42.207934280060044,
+        "speed": 17.80343713828359
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.92848890106658, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 270.82999942949755,
+        "speed": 3.4878368705599954
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 133.75213892640676,
+        "speed": 8.363256846919711
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 291.68919122702977,
+        "speed": 6.081232561005102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 322.79876582416483,
+        "speed": 14.927041706817862
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 163.43455081601172,
+        "speed": 0.8124329261440018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 310.1124411953172,
+        "speed": 19.04642807343167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 73.21671608366944,
+        "speed": 2.338891712498274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 327.86652542469596,
+        "speed": 9.796767998509772
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 359.9089977970119,
+        "speed": 23.962873667917663
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 349.8993575161997,
+        "speed": 3.9404902748450823
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.44575280124434, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 71.87551468534176,
+        "speed": 1.3401549090268396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 145.337634878732,
+        "speed": 19.15291112701094
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 104.13961369483317,
+        "speed": 18.372159783477944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 239.12747986461164,
+        "speed": 15.435618788048288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 152.1370146901681,
+        "speed": 15.381902001006752
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 350.3989874125684,
+        "speed": 20.435922199167475
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 277.809300723878,
+        "speed": 14.394239969541289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 316.6060955474542,
+        "speed": 15.806753578224013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 88.37747668083544,
+        "speed": 1.9202170620593577
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 359.91613626357764,
+        "speed": 8.756986754649612
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.9630167014221, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 320.28992794858704,
+        "speed": 3.664459993016468
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 215.04189607100747,
+        "speed": 9.588892508751293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 322.89775828299355,
+        "speed": 7.666067563721743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 164.17800322411875,
+        "speed": 3.614579244964574
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 280.5183184081765,
+        "speed": 12.318198351906936
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 239.24883544902536,
+        "speed": 17.74128901057278
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 33.91514810964171,
+        "speed": 7.486984971899263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 201.9380598372609,
+        "speed": 20.302379885223385
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 215.00754027674094,
+        "speed": 0.8592747292261418
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 139.53142901238445,
+        "speed": 15.933822913880228
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.48028060159986, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 67.22078824436491,
+        "speed": 8.549723234504576
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 107.6966666385555,
+        "speed": 7.7829072993805255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 60.54617810231762,
+        "speed": 13.86995293167636
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 197.84927291262073,
+        "speed": 3.3583294961623977
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 53.689607749927994,
+        "speed": 8.449328540350699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 13.316565177137196,
+        "speed": 17.883859428804406
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 257.0675041747088,
+        "speed": 14.505493850043901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 153.3578219504743,
+        "speed": 15.275205612446163
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 121.03155332760615,
+        "speed": 12.209079162434437
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 141.95982559850415,
+        "speed": 12.452572011666607
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.99754450177762, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 307.00243499098485,
+        "speed": 18.601915161021726
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 42.69059697876703,
+        "speed": 17.035593303220242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 194.1347322033463,
+        "speed": 6.122218597244386
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 63.65984481095289,
+        "speed": 3.304922989996207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 302.8785545482024,
+        "speed": 18.64260062927123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 9.308771198929424,
+        "speed": 1.264442830019778
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 286.1781299765783,
+        "speed": 14.76362330683569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 115.87263184732234,
+        "speed": 17.61505066957462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 235.93814731528002,
+        "speed": 13.817031554048295
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 287.1107327367906,
+        "speed": 22.7438412065384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [60.51480840195538, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 245.11015461749315,
+        "speed": 8.652239806457866
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 76.79069000380692,
+        "speed": 9.295086018252556
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 162.84983325852966,
+        "speed": 12.508868934833076
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 358.4019198342395,
+        "speed": 8.570752511069246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 305.83441919161925,
+        "speed": 16.71009403665162
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 271.6243743415885,
+        "speed": 12.864060336838657
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 215.54295234458846,
+        "speed": 6.165728528529071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 98.25668111982499,
+        "speed": 23.880194453128134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 180.85680440308334,
+        "speed": 9.63005760990469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 78.27255900731427,
+        "speed": 7.274551710513462
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.03207230213314, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 65.60010897597634,
+        "speed": 19.980919965977208
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 2.5456943462153703,
+        "speed": 7.860138497024742
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 90.74921919168723,
+        "speed": 14.09223609852238
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 89.05787568476148,
+        "speed": 18.012435180816027
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 36.65051491156568,
+        "speed": 17.929780186468086
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 116.48979521767434,
+        "speed": 1.600996932262774
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 3.0711189145293183,
+        "speed": 2.154802386685942
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 321.2587712264727,
+        "speed": 5.52234873632284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 338.79321877839874,
+        "speed": 13.069928900097882
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 71.61559382335011,
+        "speed": 9.783135852245573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [71.54933620231091, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 238.4955861545183,
+        "speed": 13.564382509435431
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 213.14380712549837,
+        "speed": 14.767248929217562
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 10.253851271309626,
+        "speed": 0.3732336000679428
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 136.26752151300238,
+        "speed": 8.770546658698901
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 7.112626946546747,
+        "speed": 22.46469416219505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 260.705580480774,
+        "speed": 16.460523531985828
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 48.18059374207611,
+        "speed": 12.642694596792479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 247.3119897657108,
+        "speed": 17.19309602368018
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 282.81168160596417,
+        "speed": 13.254793022985229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 255.4158187069116,
+        "speed": 16.471351408750714
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [77.06660010248868, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 15.60874270910575,
+        "speed": 20.12478574378469
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 349.167529753697,
+        "speed": 6.930729110296481
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 348.27343684272734,
+        "speed": 17.264084887337955
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 173.95907323955697,
+        "speed": 20.50571851234818
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 140.56636741058318,
+        "speed": 10.292352190578974
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 332.2761247698515,
+        "speed": 11.02713476255999
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 258.7295371199043,
+        "speed": 0.9063171273552175
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 297.1091691707545,
+        "speed": 12.513345832894746
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 249.19266282360726,
+        "speed": 20.08597435862908
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 224.97429246156454,
+        "speed": 3.936072541314932
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [82.58386400266645, 160.0345224945205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 208.23374304044876,
+        "speed": 11.206537601372245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, -160.28552049452048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 180.10520219513396,
+        "speed": 22.180784527314792
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, -124.69440460684926]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 171.59391781365275,
+        "speed": 19.28417403083619
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, -89.10328871917804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 263.5218451069979,
+        "speed": 13.41163723743786
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, -53.51217283150682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 258.3756715501604,
+        "speed": 19.565628737485323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, -17.921056943835595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 225.40584089781197,
+        "speed": 19.27941724701397
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, 17.670058943835627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 5.270666497165211,
+        "speed": 19.281440776139902
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, 53.26117483150685]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 102.4390780401399,
+        "speed": 4.226436589726905
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, 88.85229071917807]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 335.32292801361183,
+        "speed": 15.764869935563256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, 124.4434066068493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "deg": 38.18866388959584,
+        "speed": 3.539072767866301
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [88.10112790284421, 160.0345224945205]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1045c104","path":"/howToUse/util/util.html","title":"Util 工具函数","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1687334780000,"contributors":[{"name":"小小志","email":"2376731805@qq.com","commits":2}]},"filePathRelative":"howToUse/util/util.md"}');export{t as data};

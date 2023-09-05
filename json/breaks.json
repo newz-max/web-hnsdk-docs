@@ -1,0 +1,62 @@
+[
+  {
+    "break": 1,
+    "fillOpacity": 0.4,
+    "fillColor": "#4FBC1A",
+    "weight": 0
+  },
+  {
+    "break": 2,
+    "fillOpacity": 0.4,
+    "fillColor": "#4FEDDD",
+    "weight": 0
+  },
+  {
+    "break": 3,
+    "fillOpacity": 0.4,
+    "fillColor": "#6338F9",
+    "weight": 0
+  },
+  {
+    "break": 4,
+    "fillOpacity": 0.4,
+    "fillColor": "#1F1568",
+    "weight": 0
+  },
+  {
+    "break": 5,
+    "fillOpacity": 0.4,
+    "fillColor": "#8003D2",
+    "weight": 0
+  },
+  {
+    "break": 6,
+    "fillOpacity": 0.4,
+    "fillColor": "#ECB8D9",
+    "weight": 0
+  },
+  {
+    "break": 7,
+    "fillOpacity": 0.4,
+    "fillColor": "#005322",
+    "weight": 0
+  },
+  {
+    "break": 8,
+    "fillOpacity": 0.4,
+    "fillColor": "#E3D120",
+    "weight": 0
+  },
+  {
+    "break": 9,
+    "fillOpacity": 0.4,
+    "fillColor": "#05B112",
+    "weight": 0
+  },
+  {
+    "break": 10,
+    "fillOpacity": 0.4,
+    "fillColor": "#12014E",
+    "weight": 0
+  }
+]
