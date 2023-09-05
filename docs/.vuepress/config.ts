@@ -72,6 +72,7 @@ export default defineUserConfig({
             "/howToUse/utils/area.md",
             "/howToUse/utils/calcDestination.md",
             "/howToUse/utils/toMercator.md",
+            "/howToUse/utils/vesselInPolygon.md",
           ],
         },
         {
