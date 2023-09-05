@@ -54,6 +54,9 @@ import PointMethods from "./components/MethodsTable/PointMethods.vue"; // tileLa
 import PointProperties from "./components/PropertiesTable/PointProperties.vue"; // LatLng properties 表格
 import ScaleControlerCreation from "./components/CreationTable/ScaleControlerCreation.vue"; // tileLayer creation 表格
 import ScaleControlerOptions from "./components/OptionsTable/ScaleControlerOptions.vue"; // tileLayer options 表格
+import UseStoreMarkerCreation from "./components/CreationTable/UseStoreMarkerCreation.vue"; // tileLayer creation 表格
+import useStoreMarkerMethods from "./components/MethodsTable/useStoreMarkerMethods.vue"; // tileLayer creation 表格
+import RuntimeMarkerStoreItem from "./components/Other/RuntimeMarkerStoreItem.vue";
 
 export default defineClientConfig({
   enhance({ app }) {
@@ -111,5 +114,8 @@ export default defineClientConfig({
     app.component("PointProperties", PointProperties);
     app.component("ScaleControlerCreation", ScaleControlerCreation);
     app.component("ScaleControlerOptions", ScaleControlerOptions);
+    app.component("UseStoreMarkerCreation", UseStoreMarkerCreation);
+    app.component("useStoreMarkerMethods", useStoreMarkerMethods);
+    app.component("RuntimeMarkerStoreItem", RuntimeMarkerStoreItem);
   },
 });

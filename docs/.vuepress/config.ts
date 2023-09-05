@@ -105,6 +105,10 @@ export default defineUserConfig({
             "/howToUse/controler/scale-controler.md",
           ],
         },
+        {
+          text: "扩展工具",
+          children: ["/howToUse/extendsTools/storageMarker.md"],
+        },
       ],
     },
   }),
